@@ -19,6 +19,10 @@
     line-height: 1.4;
 }
 
+button{
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1)  ;
+}
+
 p{
     font-size: 14px;
 }
@@ -187,6 +191,7 @@ header ul a{
     width: 240px;
     height: 100px;
     margin-bottom: 4rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .card::before{
