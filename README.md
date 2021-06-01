@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](#)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5/hub/responsive-solution-to-fylo-landing-page-using-flexbox-wXgk7on7T)
 - Live Site URL: [Live site](https://fmc-fylo-landing-page.vercel.app/)
 
 ## My process
